@@ -4,5 +4,5 @@
 # Ignore files
 # excel and iml files.
 #
-*.xml  
+*.xml
 *.iml
